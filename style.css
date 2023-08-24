@@ -2,6 +2,7 @@ body {
     background-color: #92A0AD;
 }
 
-h2 {
-    text-align: center;
+a {
+    text-decoration: none;
+    color: white;
 }
